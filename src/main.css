@@ -1,0 +1,32 @@
+body {
+  background-color: #98b294;
+  border: 40px;
+  font-family: helvetica, verdana, sans-serif;
+  text-decoration: none;
+}
+
+.header {
+  color: #daff49;
+  padding: 20px;
+  text-align: center;
+}
+
+.header h1, h2 {
+  font-weight: lighter;
+}
+
+.tagline {
+  color: darkred;
+  padding-left: 40px;
+}
+
+.skills {
+  color: darkred;
+  padding-left: 40px;
+}
+
+.contact {
+  color: lightblue;
+  padding-left: 40px;
+  padding-bottom: 40px;
+}
